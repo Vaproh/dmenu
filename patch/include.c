@@ -1,0 +1,5 @@
+#include "fuzzymatch.c"
+#include "highpriority.c"
+#include "dynamicoptions.c"
+#include "mousesupport.c"
+#include "xresources.c"
