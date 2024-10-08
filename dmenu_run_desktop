@@ -1,1 +1,2 @@
-../../../.dotfiles/.local/src/dmenu/dmenu_run_desktop
+#!/bin/sh
+dmenu_path_desktop | dmenu "$@" | ${SHELL:-"/bin/sh"} &

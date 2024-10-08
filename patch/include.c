@@ -1,1 +1,5 @@
-../../../../.dotfiles/.local/src/dmenu/patch/include.c
+#include "fuzzymatch.c"
+#include "highpriority.c"
+#include "dynamicoptions.c"
+#include "mousesupport.c"
+#include "xresources.c"
