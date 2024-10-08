@@ -1,1 +1,1 @@
-static int arrayhas(char **list, int length, char *item);
+../../../../.dotfiles/.local/src/dmenu/patch/highpriority.h

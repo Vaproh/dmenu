@@ -1,2 +1,1 @@
-static void refreshoptions(void);
-static void readstream(FILE* stream);
+../../../../.dotfiles/.local/src/dmenu/patch/dynamicoptions.h

@@ -1,2 +1,1 @@
-#include "dynamicoptions.h"
-#include "highpriority.h"
+../../../../.dotfiles/.local/src/dmenu/patch/include.h
