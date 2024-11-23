@@ -1,5 +1,6 @@
+#include "center.c"
 #include "fuzzymatch.c"
-#include "highpriority.c"
-#include "dynamicoptions.c"
+#include "fzfexpect.c"
 #include "mousesupport.c"
+#include "numbers.c"
 #include "xresources.c"
